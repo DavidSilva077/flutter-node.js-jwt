@@ -1,16 +1,18 @@
-# dashe
+<h1 align="center">Dashe</h1>
 
-A new Flutter project.
 
-## Getting Started
+<h4 align="center"> 
+	🚧  Dashe 🚀 Construção...  🚧
+</h4>
 
-This project is a starting point for a Flutter application.
+### Features
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Login e cadrasto.
+- [x] Autenticação JWT
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🛠 Tecnologias
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Algumas das ferramentas que foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
